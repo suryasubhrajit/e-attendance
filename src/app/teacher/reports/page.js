@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Calendar, Download, Filter, Users, TrendingUp, Clock } from 'lucide-react'
-import { DashboardLayout } from '@/components/DashboardLayout'
+import DashboardLayout from '@/components/DashboardLayout'
 
 export default function TeacherReports() {
   const [classes, setClasses] = useState([])

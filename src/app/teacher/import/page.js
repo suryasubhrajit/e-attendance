@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { DashboardLayout } from '@/components/DashboardLayout'
+import DashboardLayout from '@/components/DashboardLayout'
 import { RoleBasedImport } from '@/components/RoleBasedImport'
 import { useNotification } from '@/components/Notification'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'

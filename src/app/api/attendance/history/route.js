@@ -1,6 +1,9 @@
 import { NextResponse } from 'next/server'
 import { prisma } from '@/lib/db'
 
+// Mark route as dynamic to prevent static generation
+export const dynamic = 'force-dynamic'
+
 // GET attendance history for a student
 export async function GET(request) {
   try {

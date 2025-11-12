@@ -14,7 +14,7 @@ import {
 import { Button } from '@/components/ui/button'
 import { ThemeToggle } from '@/components/ThemeToggle'
 
-export function DashboardLayout({ 
+function DashboardLayout({ 
   children, 
   userInfo, 
   currentPage = 'dashboard', 
@@ -124,3 +124,5 @@ export function DashboardLayout({
     </div>
   )
 }
+export
+ default DashboardLayout

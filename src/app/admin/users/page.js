@@ -21,7 +21,7 @@ import {
   Award,
   Upload
 } from 'lucide-react'
-import { DashboardLayout } from '@/components/DashboardLayout'
+import DashboardLayout from '@/components/DashboardLayout'
 import { useNotification } from '@/components/Notification'
 import { LoadingOverlay } from '@/components/Loading'
 import { ExcelImport } from '@/components/ExcelImport'
