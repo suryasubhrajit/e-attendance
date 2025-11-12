@@ -1,0 +1,14 @@
+name,email,employeeId,department,designation,phone,password
+Dr. Rajesh Kumar,rajesh.kumar@kmbb.edu.in,EMP001,Computer Science Engineering,Professor,9876543210,EMP001@123
+Dr. Priya Sharma,priya.sharma@kmbb.edu.in,EMP002,Computer Science Engineering,Associate Professor,9876543211,EMP002@123
+Prof. Amit Patel,amit.patel@kmbb.edu.in,EMP003,Mechanical Engineering,Assistant Professor,9876543212,EMP003@123
+Dr. Sunita Verma,sunita.verma@kmbb.edu.in,EMP004,Electrical Engineering,Professor,9876543213,EMP004@123
+Prof. Vikram Singh,vikram.singh@kmbb.edu.in,EMP005,Civil Engineering,Associate Professor,9876543214,EMP005@123
+Dr. Anjali Reddy,anjali.reddy@kmbb.edu.in,EMP006,Electronics & Communication Engineering,Professor,9876543215,EMP006@123
+Prof. Rahul Gupta,rahul.gupta@kmbb.edu.in,EMP007,Computer Science Engineering,Assistant Professor,9876543216,EMP007@123
+Dr. Kavita Joshi,kavita.joshi@kmbb.edu.in,EMP008,Mechanical Engineering,Associate Professor,9876543217,EMP008@123
+Prof. Suresh Nair,suresh.nair@kmbb.edu.in,EMP009,Electrical Engineering,Assistant Professor,9876543218,EMP009@123
+Dr. Meera Iyer,meera.iyer@kmbb.edu.in,EMP010,Civil Engineering,Professor,9876543219,EMP010@123
+Prof. Arun Kumar,arun.kumar@kmbb.edu.in,EMP011,Electronics & Communication Engineering,Assistant Professor,9876543220,EMP011@123
+Dr. Pooja Desai,pooja.desai@kmbb.edu.in,EMP012,Computer Science Engineering,Associate Professor,9876543221,EMP012@123
+Prof. Manoj Tiwari,manoj.tiwari@kmbb.edu.in,EMP013,Mechanical Engineering,Assistant Professor,9876543222,EMP013@123

@@ -1,107 +1,45 @@
-# Dependencies
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
 /node_modules
 /.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+.pnp.js
 
-# Testing
+# testing
 /coverage
-*.test.js
-*.spec.js
 
-# Next.js
+# next.js
 /.next/
 /out/
-.next
 
-# Production
+# production
 /build
-/dist
 
-# Environment Variables
-.env
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
 .env*.local
-.env.production
-!.env.example
+.env.local
 
-# Database
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# database
 *.db
 *.db-journal
 dev.db
 dev.db-journal
-prisma/dev.db*
-*.sqlite
-*.sqlite3
 
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-lerna-debug.log*
-.pnpm-debug.log*
-pnpm-debug.log*
-
-# Backups
-backups/
-*.sql
-*.dump
-*.backup
-
-# Temporary Files
-*.tmp
-*.temp
-.cache/
-.turbo/
-
-# IDE & Editors
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.project
-.classpath
-.settings/
-*.sublime-project
-*.sublime-workspace
-
-# OS Files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-Desktop.ini
-
-# TypeScript
-*.tsbuildinfo
-next-env.d.ts
-/src/generated/
-
-# Vercel
-.vercel
-
-# Misc
-*.pem
-.eslintcache
-.stylelintcache
-
-# Debug & Error Files
-terminal_issue.txt
-error.log
-debug.log
-
-# Scripts Output
-scripts/output/
-scripts/logs/
-
-.vercel
-.env*.local
+# prisma
+prisma/migrations

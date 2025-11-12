@@ -1,0 +1,31 @@
+name,email,rollNo,phone,semester,batch,section,department,departmentCode,fatherName,motherName,bloodGroup,category,address,admissionYear
+Aarav Sharma,aarav.sharma@student.kmbb.edu.in,CSE2024001,9123456701,3,2024-2028,A,Computer Science Engineering,CSE,Ramesh Sharma,Sunita Sharma,O+,General,123 MG Road Delhi,2024
+Diya Patel,diya.patel@student.kmbb.edu.in,CSE2024002,9123456702,3,2024-2028,A,Computer Science Engineering,CSE,Suresh Patel,Meena Patel,A+,OBC,456 Park Street Kolkata,2024
+Arjun Singh,arjun.singh@student.kmbb.edu.in,CSE2024003,9123456703,3,2024-2028,A,Computer Science Engineering,CSE,Vikram Singh,Priya Singh,B+,General,789 Brigade Road Bangalore,2024
+Ananya Reddy,ananya.reddy@student.kmbb.edu.in,CSE2024004,9123456704,3,2024-2028,B,Computer Science Engineering,CSE,Ravi Reddy,Lakshmi Reddy,AB+,OBC,321 Jubilee Hills Hyderabad,2024
+Rohan Gupta,rohan.gupta@student.kmbb.edu.in,CSE2024005,9123456705,3,2024-2028,B,Computer Science Engineering,CSE,Amit Gupta,Kavita Gupta,O-,General,654 Connaught Place Delhi,2024
+Ishita Verma,ishita.verma@student.kmbb.edu.in,ME2024001,9123456706,3,2024-2028,A,Mechanical Engineering,ME,Rajesh Verma,Anjali Verma,A-,SC,987 Marine Drive Mumbai,2024
+Kabir Khan,kabir.khan@student.kmbb.edu.in,ME2024002,9123456707,3,2024-2028,A,Mechanical Engineering,ME,Salman Khan,Ayesha Khan,B-,General,147 Park Circus Kolkata,2024
+Saanvi Joshi,saanvi.joshi@student.kmbb.edu.in,ME2024003,9123456708,3,2024-2028,A,Mechanical Engineering,ME,Sunil Joshi,Pooja Joshi,AB-,OBC,258 Residency Road Bangalore,2024
+Vihaan Nair,vihaan.nair@student.kmbb.edu.in,EE2024001,9123456709,3,2024-2028,A,Electrical Engineering,EE,Mohan Nair,Radha Nair,O+,General,369 MG Road Kochi,2024
+Aisha Desai,aisha.desai@student.kmbb.edu.in,EE2024002,9123456710,3,2024-2028,A,Electrical Engineering,EE,Prakash Desai,Neha Desai,A+,General,741 FC Road Pune,2024
+Advait Kumar,advait.kumar@student.kmbb.edu.in,EE2024003,9123456711,3,2024-2028,B,Electrical Engineering,EE,Anil Kumar,Sunita Kumar,B+,ST,852 Anna Salai Chennai,2024
+Myra Iyer,myra.iyer@student.kmbb.edu.in,CE2024001,9123456712,3,2024-2028,A,Civil Engineering,CE,Venkat Iyer,Priya Iyer,AB+,General,963 Residency Road Bangalore,2024
+Reyansh Mehta,reyansh.mehta@student.kmbb.edu.in,CE2024002,9123456713,3,2024-2028,A,Civil Engineering,CE,Kiran Mehta,Ritu Mehta,O-,EWS,159 Linking Road Mumbai,2024
+Aadhya Pillai,aadhya.pillai@student.kmbb.edu.in,CE2024003,9123456714,3,2024-2028,A,Civil Engineering,CE,Suresh Pillai,Lakshmi Pillai,A-,OBC,357 MG Road Trivandrum,2024
+Vivaan Rao,vivaan.rao@student.kmbb.edu.in,ECE2024001,9123456715,3,2024-2028,A,Electronics & Communication Engineering,ECE,Ramesh Rao,Kavita Rao,B-,General,468 Banjara Hills Hyderabad,2024
+Kiara Bose,kiara.bose@student.kmbb.edu.in,ECE2024002,9123456716,3,2024-2028,A,Electronics & Communication Engineering,ECE,Subhash Bose,Anita Bose,AB-,General,579 Salt Lake Kolkata,2024
+Ayaan Malhotra,ayaan.malhotra@student.kmbb.edu.in,ECE2024003,9123456717,3,2024-2028,B,Electronics & Communication Engineering,ECE,Rajiv Malhotra,Neha Malhotra,O+,General,681 Sector 17 Chandigarh,2024
+Navya Shetty,navya.shetty@student.kmbb.edu.in,CSE2024006,9123456718,5,2023-2027,A,Computer Science Engineering,CSE,Prakash Shetty,Suma Shetty,A+,General,792 Koramangala Bangalore,2023
+Arnav Kapoor,arnav.kapoor@student.kmbb.edu.in,CSE2024007,9123456719,5,2023-2027,A,Computer Science Engineering,CSE,Anil Kapoor,Sunita Kapoor,B+,General,803 Defence Colony Delhi,2023
+Pari Agarwal,pari.agarwal@student.kmbb.edu.in,CSE2024008,9123456720,5,2023-2027,B,Computer Science Engineering,CSE,Suresh Agarwal,Meena Agarwal,AB+,OBC,914 Civil Lines Jaipur,2023
+Shaurya Bansal,shaurya.bansal@student.kmbb.edu.in,ME2024004,9123456721,5,2023-2027,A,Mechanical Engineering,ME,Rajesh Bansal,Priya Bansal,O-,General,125 Model Town Delhi,2023
+Anvi Saxena,anvi.saxena@student.kmbb.edu.in,ME2024005,9123456722,5,2023-2027,A,Mechanical Engineering,ME,Amit Saxena,Kavita Saxena,A-,SC,236 Gomti Nagar Lucknow,2023
+Atharv Mishra,atharv.mishra@student.kmbb.edu.in,EE2024004,9123456723,5,2023-2027,A,Electrical Engineering,EE,Vinod Mishra,Anjali Mishra,B-,General,347 Hazratganj Lucknow,2023
+Ira Pandey,ira.pandey@student.kmbb.edu.in,EE2024005,9123456724,5,2023-2027,B,Electrical Engineering,EE,Rakesh Pandey,Sunita Pandey,AB-,OBC,458 Cantonment Varanasi,2023
+Dhruv Tiwari,dhruv.tiwari@student.kmbb.edu.in,CE2024004,9123456725,5,2023-2027,A,Civil Engineering,CE,Manoj Tiwari,Pooja Tiwari,O+,General,569 Civil Lines Allahabad,2023
+Riya Chawla,riya.chawla@student.kmbb.edu.in,CE2024005,9123456726,5,2023-2027,A,Civil Engineering,CE,Sunil Chawla,Neha Chawla,A+,EWS,670 Sector 22 Noida,2023
+Kian Bhatt,kian.bhatt@student.kmbb.edu.in,ECE2024004,9123456727,5,2023-2027,A,Electronics & Communication Engineering,ECE,Ramesh Bhatt,Kavita Bhatt,B+,General,781 Satellite Ahmedabad,2023
+Sara Jain,sara.jain@student.kmbb.edu.in,ECE2024005,9123456728,5,2023-2027,B,Electronics & Communication Engineering,ECE,Prakash Jain,Sunita Jain,AB+,General,892 MI Road Jaipur,2023
+Yash Thakur,yash.thakur@student.kmbb.edu.in,CSE2024009,7,2022-2026,A,Computer Science Engineering,CSE,Vikram Thakur,Priya Thakur,O-,ST,903 Mall Road Shimla,2022
+Zara Shah,zara.shah@student.kmbb.edu.in,CSE2024010,7,2022-2026,A,Computer Science Engineering,CSE,Rajesh Shah,Anjali Shah,A-,General,114 CG Road Ahmedabad,2022
