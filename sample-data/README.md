@@ -6,13 +6,17 @@ This folder contains sample CSV files for bulk importing teachers and students i
 
 ### 1. teachers-import.csv
 Contains 13 sample teachers with the following fields:
-- **name**: Full name of the teacher
-- **email**: Official email address
-- **employeeId**: Unique employee ID (EMP001-EMP013)
-- **department**: Department name (CSE, ME, EE, CE, ECE)
-- **designation**: Professor/Associate Professor/Assistant Professor
-- **phone**: Contact number
-- **password**: Default password (employeeId@123)
+- **Full Name**: Full name of the teacher
+- **Employee ID**: Unique employee ID (EMP001-EMP013)
+- **Email**: Official email address
+- **Phone**: Contact number (format: +91 XXXXXXXXXX)
+- **Department**: Department code (cse, me, ee, ce, ece)
+- **Designation**: Professor/Associate Professor/Assistant Professor
+- **Qualification**: Educational qualification
+- **Experience Years**: Years of teaching experience
+- **Specialization**: Area of expertise
+- **Date of Joining**: Joining date (YYYY-MM-DD)
+- **Address**: Residential address
 
 **Departments covered:**
 - Computer Science Engineering (4 teachers)
@@ -23,21 +27,20 @@ Contains 13 sample teachers with the following fields:
 
 ### 2. students-import.csv
 Contains 30 sample students with the following fields:
-- **name**: Full name of the student
-- **email**: Student email address
-- **rollNo**: Unique roll number (format: DEPT2024XXX)
-- **phone**: Contact number
-- **semester**: Current semester (3, 5, or 7)
-- **batch**: Academic batch (2024-2028, 2023-2027, 2022-2026)
-- **section**: Section (A or B)
-- **department**: Full department name
-- **departmentCode**: Department code (CSE, ME, EE, CE, ECE)
-- **fatherName**: Father's name
-- **motherName**: Mother's name
-- **bloodGroup**: Blood group (A+, B+, O+, AB+, etc.)
-- **category**: Category (General, OBC, SC, ST, EWS)
-- **address**: Residential address
-- **admissionYear**: Year of admission
+- **Full Name**: Full name of the student
+- **Roll Number**: Unique roll number (format: YYYYDEPTXXX, e.g., 2024CSE001)
+- **Email**: Student email address
+- **Phone**: Contact number (format: +91 XXXXXXXXXX)
+- **Department**: Department code (cse, me, ee, ce, ece)
+- **Semester**: Current semester (1-8)
+- **Batch**: Academic batch (YYYY-YYYY format, e.g., 2024-2028)
+- **Section**: Section (A, B, C, or D)
+- **Father Name**: Father's name
+- **Mother Name**: Mother's name
+- **Blood Group**: Blood group (A+, A-, B+, B-, AB+, AB-, O+, O-)
+- **Category**: Category (General, OBC, SC, ST, EWS)
+- **Address**: Residential address
+- **Admission Year**: Year of admission (YYYY)
 
 **Distribution:**
 - Computer Science Engineering: 10 students
@@ -69,17 +72,20 @@ Contains 30 sample students with the following fields:
 ## Default Passwords
 
 ### Teachers
-Format: `employeeId@123`
+Format: `EmployeeID@123`
 - Example: EMP001@123, EMP002@123, etc.
 
 ### Students
-Format: `rollNo@123`
-- Example: CSE2024001@123, ME2024001@123, etc.
+Format: `RollNumber@123`
+- Example: 2024CSE001@123, 2024ME001@123, etc.
 
 ## Notes
 
-- All email addresses use the domain `@kmbb.edu.in` for teachers and `@student.kmbb.edu.in` for students
-- Phone numbers are in the format 91234567XX
+- All email addresses use the domain `@kmbb.in`
+- Phone numbers are in the format `+91 XXXXXXXXXX`
+- Department codes are lowercase: cse, me, ee, ce, ece
+- Roll numbers follow format: YYYYDEPTXXX (e.g., 2024CSE001)
+- Employee IDs follow format: EMPXXX (e.g., EMP001)
 - All data is randomly generated for demonstration purposes
 - Students are distributed across different semesters and sections
 - Blood groups and categories are varied for realistic data
@@ -96,13 +102,21 @@ Or use the provided Excel files if available.
 ## Field Requirements
 
 ### Required Fields for Teachers:
-- name
-- email
-- employeeId
+- Full Name
+- Employee ID
+- Email
+- Phone
+- Department
+- Designation
 
 ### Required Fields for Students:
-- name
-- email
-- rollNo
+- Full Name
+- Roll Number
+- Email
+- Phone
+- Department
+- Semester
+- Batch
+- Section
 
 All other fields are optional but recommended for complete profiles.

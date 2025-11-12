@@ -1,14 +1,14 @@
-name,email,employeeId,department,designation,phone,password
-Dr. Rajesh Kumar,rajesh.kumar@kmbb.edu.in,EMP001,Computer Science Engineering,Professor,9876543210,EMP001@123
-Dr. Priya Sharma,priya.sharma@kmbb.edu.in,EMP002,Computer Science Engineering,Associate Professor,9876543211,EMP002@123
-Prof. Amit Patel,amit.patel@kmbb.edu.in,EMP003,Mechanical Engineering,Assistant Professor,9876543212,EMP003@123
-Dr. Sunita Verma,sunita.verma@kmbb.edu.in,EMP004,Electrical Engineering,Professor,9876543213,EMP004@123
-Prof. Vikram Singh,vikram.singh@kmbb.edu.in,EMP005,Civil Engineering,Associate Professor,9876543214,EMP005@123
-Dr. Anjali Reddy,anjali.reddy@kmbb.edu.in,EMP006,Electronics & Communication Engineering,Professor,9876543215,EMP006@123
-Prof. Rahul Gupta,rahul.gupta@kmbb.edu.in,EMP007,Computer Science Engineering,Assistant Professor,9876543216,EMP007@123
-Dr. Kavita Joshi,kavita.joshi@kmbb.edu.in,EMP008,Mechanical Engineering,Associate Professor,9876543217,EMP008@123
-Prof. Suresh Nair,suresh.nair@kmbb.edu.in,EMP009,Electrical Engineering,Assistant Professor,9876543218,EMP009@123
-Dr. Meera Iyer,meera.iyer@kmbb.edu.in,EMP010,Civil Engineering,Professor,9876543219,EMP010@123
-Prof. Arun Kumar,arun.kumar@kmbb.edu.in,EMP011,Electronics & Communication Engineering,Assistant Professor,9876543220,EMP011@123
-Dr. Pooja Desai,pooja.desai@kmbb.edu.in,EMP012,Computer Science Engineering,Associate Professor,9876543221,EMP012@123
-Prof. Manoj Tiwari,manoj.tiwari@kmbb.edu.in,EMP013,Mechanical Engineering,Assistant Professor,9876543222,EMP013@123
+Full Name,Employee ID,Email,Phone,Department,Designation,Qualification,Experience Years,Specialization,Date of Joining,Address
+Dr. Rajesh Kumar,EMP001,rajesh.kumar@kmbb.in,+91 9876543210,cse,Professor,Ph.D. Computer Science,15,Artificial Intelligence & Machine Learning,2015-07-01,123 Faculty Colony Khordha Odisha
+Dr. Priya Sharma,EMP002,priya.sharma@kmbb.in,+91 9876543211,cse,Associate Professor,Ph.D. Computer Science,10,Data Science & Big Data,2018-08-15,456 Faculty Colony Khordha Odisha
+Prof. Amit Patel,EMP003,amit.patel@kmbb.in,+91 9876543212,me,Assistant Professor,M.Tech Mechanical Engineering,7,Thermodynamics & Heat Transfer,2020-06-01,789 Faculty Colony Khordha Odisha
+Dr. Sunita Verma,EMP004,sunita.verma@kmbb.in,+91 9876543213,ee,Professor,Ph.D. Electrical Engineering,18,Power Systems & Renewable Energy,2012-07-15,321 Faculty Colony Khordha Odisha
+Prof. Vikram Singh,EMP005,vikram.singh@kmbb.in,+91 9876543214,ce,Associate Professor,M.Tech Civil Engineering,12,Structural Engineering,2016-08-01,654 Faculty Colony Khordha Odisha
+Dr. Anjali Reddy,EMP006,anjali.reddy@kmbb.in,+91 9876543215,ece,Professor,Ph.D. Electronics & Communication,16,VLSI Design & Embedded Systems,2014-07-01,987 Faculty Colony Khordha Odisha
+Prof. Rahul Gupta,EMP007,rahul.gupta@kmbb.in,+91 9876543216,cse,Assistant Professor,M.Tech Computer Science,6,Web Technologies & Cloud Computing,2021-06-15,147 Faculty Colony Khordha Odisha
+Dr. Kavita Joshi,EMP008,kavita.joshi@kmbb.in,+91 9876543217,me,Associate Professor,Ph.D. Mechanical Engineering,11,Manufacturing Processes & Robotics,2017-07-01,258 Faculty Colony Khordha Odisha
+Prof. Suresh Nair,EMP009,suresh.nair@kmbb.in,+91 9876543218,ee,Assistant Professor,M.Tech Electrical Engineering,8,Control Systems & Automation,2019-08-01,369 Faculty Colony Khordha Odisha
+Dr. Meera Iyer,EMP010,meera.iyer@kmbb.in,+91 9876543219,ce,Professor,Ph.D. Civil Engineering,14,Geotechnical Engineering,2015-06-01,741 Faculty Colony Khordha Odisha
+Prof. Arun Kumar,EMP011,arun.kumar@kmbb.in,+91 9876543220,ece,Assistant Professor,M.Tech Electronics & Communication,5,Communication Systems & Networks,2022-07-15,852 Faculty Colony Khordha Odisha
+Dr. Pooja Desai,EMP012,pooja.desai@kmbb.in,+91 9876543221,cse,Associate Professor,Ph.D. Computer Science,9,Cybersecurity & Network Security,2019-06-01,963 Faculty Colony Khordha Odisha
+Prof. Manoj Tiwari,EMP013,manoj.tiwari@kmbb.in,+91 9876543222,me,Assistant Professor,M.Tech Mechanical Engineering,6,CAD/CAM & Industrial Engineering,2021-08-01,159 Faculty Colony Khordha Odisha
