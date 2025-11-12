@@ -102,3 +102,6 @@ debug.log
 # Scripts Output
 scripts/output/
 scripts/logs/
+
+.vercel
+.env*.local
